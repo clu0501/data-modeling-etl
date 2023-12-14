@@ -14,10 +14,10 @@ If we wish to gain insights into this, we first need to get the data into our RD
 
 We can create the following tables:
 
-- Movies
-- Movie_Ratings
-- Movie_Box_Office
-- Oscar_Nominations
+- movies
+- movie_ratings
+- movie_box_office
+- oscar_nominations
 
 I've attached a draw.io entity-relationship diagram below that shows our physical data model:
 
